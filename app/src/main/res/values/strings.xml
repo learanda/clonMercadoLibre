@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Clon MercadoLibre</string>
+    <string name="buscar_en_clon">Buscar en Clon de MercadoLibre</string>
+    <string name="buscar">Buscar</string>
+    <string name="tu_carrito_esta_vacio">Tu carrito está vacío</string>
+    <string name="no_sabes_que_comprar">¿No sabes qué comprar?</string>
+    <string name="not_found">No se encontraron resultados</string>
+    <string name="server_error">Ocurrio un error en el servidor</string>
+    <string name="bad_request">Su solicitud fue incorrecta</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="resource_not_found">No se encontro el recurso</string>
+    <string name="ir_a_detalle">Ir a detalle</string>
+    <string name="mouse_genius">Mouse Genius</string>
+    <string name="_414">$414</string>
+</resources>
